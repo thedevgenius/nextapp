@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.nextapp_rose_nine.twa",
+        "sha256_cert_fingerprints": ["06:C4:6E:37:F2:21:BE:23:2E:F5:14:3C:5A:FF:BF:95:9F:17:B0:92:EE:EC:63:20:FE:3A:25:FA:30:08:02:48"]
+      }
+    }]
